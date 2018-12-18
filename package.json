@@ -27,10 +27,11 @@
     "@angular/router": "^7.0.0",
     "@angular/upgrade": "^7.0.0",
     "angular-in-memory-web-api": "^0.6.0",
+    "codelyzer": "^4.5.0",
     "core-js": "^2.5.4",
+    "react-scripts": "2.1.1",
     "rxjs": "^6.3.0",
-    "zone.js": "~0.8.26",
-    "react-scripts": "2.1.1"
+    "zone.js": "~0.8.26"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.10.0",
